@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Gustavo, @Zhanixx. Software que resolve problemas reais." width="100%">
 </p>
 
-Olá! Sou o Gustavo. Crio programas para Windows, Android e web, quase sempre a partir de um problemas que eu tenho!
+Olá! Sou o Gustavo. Crio programas para Windows, Android e web, quase sempre a partir de problemas que eu tenho!
 
 ## Projeto principal
 
