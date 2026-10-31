@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Gustavo, também conhecido como Zhanixx. Software que resolve problemas reais.">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#0b0d10" stop-opacity="1"/>
+      <stop offset=".45" stop-color="#0b0d10" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#0b0d10" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="#0b0d10"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#fade)"/>
+  <path d="M60 68h122c15 0 21 18 10 27L64 161c-11 9-5 27 10 27h122" transform="translate(860 22) scale(1.1)" fill="none" stroke="#beff4a" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="72" y="132" fill="#f4f6f8" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="68" font-weight="700">Gustavo</text>
+  <text x="74" y="172" fill="#beff4a" font-family="Consolas, Menlo, monospace" font-size="24">@Zhanixx</text>
+  <text x="74" y="222" fill="#a7afb8" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="25">Software que resolve problemas reais.</text>
+</svg>
